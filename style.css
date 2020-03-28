@@ -464,6 +464,7 @@ footer > p {
   font-weight: bold;
   color: var(--main-red);
   text-shadow: 30px 30px 15px #080808;
+  word-wrap: break-word;
 }
 
 footer i {
